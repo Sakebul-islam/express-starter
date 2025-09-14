@@ -21,7 +21,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/sakebul-islam/express-starter.git
-cd next-blog-starter
+cd express-starter
 ```
 
 Install dependencies:
