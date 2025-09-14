@@ -2,7 +2,7 @@
 
 A simple **Express Application Starter Pack** built with **TypeScript, Express.js**.
 
-<!-- This project is designed for the **Web Development Bootcamp** to help learners practice Prisma hands-on by building a blog platform. -->
+This project is designed as a **starter setup for creating an Express backend application**, providing a clean and scalable foundation for new projects or startups.
 
 ---
 
@@ -93,7 +93,8 @@ pnpm start
 
 ## Learning Objective
 
-This starter pack is part of the **Next Level Web Development Bootcamp** curriculum.
+This project is designed as a **starter setup for creating an Express backend application**, providing a clean and scalable foundation for new projects or startups.
+
 By using this project, students will learn how to:
 
 - Connect a Node.js app with Prisma ORM
